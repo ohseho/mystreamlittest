@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../pythonTest"
+		},
+		{
+			"path": "../sqlTest"
+		},
+		{
+			"path": "../수학통계_test"
+		},
+		{
+			"path": "../데이터분석_test"
+		},
+		{
+			"path": "../머신러닝_test"
+		},
+		{
+			"path": "../awsTest"
+		},
+		{
+			"path": "../딥러닝_test"
+		},
+		{
+			"path": "../스트림릿_Test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "데이터분석_test"
+	}
+}
